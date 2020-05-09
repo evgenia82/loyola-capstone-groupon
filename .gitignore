@@ -38,6 +38,8 @@ Thumbs.db
 
 # Data file that is too big to be push to GitHub #
 ##################################################
+groupon.parquet
+*.parquet
 groupon.txt
 Groupon - CapstoneProposal .pdf
 *.ipynb_checkpoints
