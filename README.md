@@ -3,7 +3,7 @@
 ### Loyola MSBDA Analytics Capstone Project Proposal 2019
 
 #### Company Profile
-Groupon, Inc.,operates online local commerce marketplace around the world that connects merchants to consumers by offering goods, services and travel deals at a discounted price. Groupon Goods division offers customers the ability to find deals on merchandise across various product lines like electronics, sporting goods, jewelry, toys, household items and apparel. Our strategy is simple, we want to grow our customer base, increase frequency of purchase and deliver solid profit margins.
+[Groupon, Inc.,](https://www.groupon.com) operates online local commerce marketplace around the world that connects merchants to consumers by offering goods, services and travel deals at a discounted price. Groupon Goods division offers customers the ability to find deals on merchandise across various product lines like electronics, sporting goods, jewelry, toys, household items and apparel. Our strategy is simple, we want to grow our customer base, increase frequency of purchase and deliver solid profit margins.
 
 ***Our mission is to be the Daily Habit in the Local Commerce.***
 
