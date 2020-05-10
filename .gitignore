@@ -42,5 +42,5 @@ groupon.parquet
 *.parquet
 groupon.txt
 Groupon - CapstoneProposal .pdf
-*.ipynb_checkpoints
-.ipynb_checkpoints
+*.ipynb_checkpoints/BSDA Capstone-Copy-checkpoint.ipynb
+.ipynb_checkpoints/BSDA Capstone-Copy-checkpoint.ipynb
